@@ -4,7 +4,7 @@ Today you run, change, commit and push code in VS Code. The code is Tuesday's: a
 
 ## Run it
 
-1. Open `index.html` in this folder.
+1. Opened `index.html` in this folder.
 2. Open the Command Palette (`Ctrl+Shift+P` / `Cmd+Shift+P`) and run **Live Preview: Show Preview (External Browser)**. The page opens in your normal browser.
 3. Open the browser's developer tools (`F12`, or `Cmd+Option+I` on a Mac) and click the **Console** tab. You should see `Hello, Ana!`
 4. Click **Play**. You should hear three notes.
